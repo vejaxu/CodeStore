@@ -1,0 +1,5 @@
+I love machine learning	1
+Deep learning is fascinating	1
+I hate waiting in line	0
+This is boring	0
+AI will change the world	1
